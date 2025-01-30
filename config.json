@@ -1,6 +1,6 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "233549772750",
+   "owner_name": "King Rio",
    "database": "data",
    "limit": 15,
    "ram_limit": "900mb",
@@ -16,7 +16,7 @@
    "evaluate_chars":  ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
-      "number": 62857035017449
+      "number": 233500850221
    },
    "replit_url": ""
 }
